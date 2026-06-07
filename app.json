@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "AI Photo Studio",
+    "slug": "ai-photo-template-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.rohitpal47.aiphototemplateapp",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0F"
+      }
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-3719819682029044~3582078396"
+        }
+      ]
+    ]
+  }
+}
